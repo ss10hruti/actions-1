@@ -1,1 +1,22 @@
+name: Sample test and Deploy
 
+on:
+ push:
+  branches: [ "main" ]
+
+jobs:
+ build_job-1:
+  runs-on: ubuntu-latest
+  steps:
+  - name: Build Step
+    run: echo "Build Successfull"
+ test_job-2:
+  runs-on: ubuntu-latest
+  steps:
+  - name: Test Step
+    run: echo "Test Successfull"
+ deploy_job-3:
+  runs-on: ubuntu-latest
+  steps:
+  - name: Deploy Step
+    run: echo "Deploy Successfull"
