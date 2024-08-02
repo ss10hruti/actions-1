@@ -17,7 +17,9 @@ jobs:
          ls -ltr
          cat README.md
       - name: Executing Bash script
-        run: ./new.sh
+        run: |
+         chmod +x new.sh
+         ./new.sh
 
       
       # - name: Welcome message
