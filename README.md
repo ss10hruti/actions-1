@@ -5,5 +5,6 @@
 
 
 ## NodeJS Application(Workflow for NodeJS Application)
-![Uploading image.png…]()
+<img width="1322" alt="image" src="https://github.com/user-attachments/assets/b05e541b-58ff-4a71-9e3c-80f4867822a2">
+
 
