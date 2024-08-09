@@ -7,4 +7,8 @@
 ## NodeJS Application(Workflow for NodeJS Application)
 <img width="1322" alt="image" src="https://github.com/user-attachments/assets/b05e541b-58ff-4a71-9e3c-80f4867822a2">
 
+- NodeJS is an opensource runtime environment
+- With nodeJS npm also gets installed
+- 
+
 
